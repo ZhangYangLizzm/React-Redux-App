@@ -177,7 +177,7 @@ button.reaction-button {
   height: 5em;
   border-radius: 50%;
   background: var(--redux-color);
-  background: -moz-linear-gradient(
+  /* background: -moz-linear-gradient(
     left,
     var(--redux-color) 10%,
     rgba(128, 0, 255, 0) 42%
@@ -196,7 +196,7 @@ button.reaction-button {
     left,
     var(--redux-color) 10%,
     rgba(128, 0, 255, 0) 42%
-  );
+  ); */
   background: linear-gradient(
     to right,
     var(--redux-color) 10%,
